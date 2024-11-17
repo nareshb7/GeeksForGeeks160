@@ -2,7 +2,7 @@
 class Solution {
   pushZerosToEnd(arr) {
 
-    // Instead of moving zeros we are swapping non-zero values
+    // Instead of moving zeros, we are swapping non-zero values
     let left = 0; // Pointer for the position to place non-zero elements
     for (let right = 0; right < arr.length; right++) {
       if (arr[right] !== 0) {
