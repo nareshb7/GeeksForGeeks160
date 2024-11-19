@@ -3,22 +3,24 @@ class Solution {
     // code here
     const n = arr.length;
     let i = n - 2;
-
+    // Step 1: Find the first decreasing element
     while (i >= 0 && arr[i] >= arr[i + 1]) {
       i--;
     }
 
     if (i >= 0) {
       let j = n - 1;
+      // Step 2: Find the next largest element to arr[i]
       while (arr[j] <= arr[i]) {
         j--;
       }
-
+      // Swap arr[i] and arr[j]
       [arr[i], arr[j]] = [arr[j], arr[i]];
     }
 
     let l = i + 1,
       r = n - 1;
+    // Step 3: Reverse the part of the array after index i
     while (l < r) {
       [arr[l], arr[r]] = [arr[r], arr[l]];
       l++;
@@ -30,13 +32,11 @@ class Solution {
 
 // Next Permutation
 
-
-// Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the 
-// lexicographically next greater permutation. If no such permutation exists, rearrange the numbers into the lowest possible order 
-// (i.e., sorted in ascending order). 
+// Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the
+// lexicographically next greater permutation. If no such permutation exists, rearrange the numbers into the lowest possible order
+// (i.e., sorted in ascending order).
 
 // Note - A permutation of an array of integers refers to a specific arrangement of its elements in a sequence or linear order.
-
 
 // Example:
 // Input: arr = [2, 4, 1, 7, 5, 0]
