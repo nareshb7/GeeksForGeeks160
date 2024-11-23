@@ -9,4 +9,5 @@
 - [Day 05 - Next Permutation](Day05/) - 19-11-2024
 - [Day 06 - Majority Element II](Day06/) - 20-11-2024
 - [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Day07/) - 21-11-2024
-- [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Day07/) - 22-11-2024
+- [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Day08/) - 22-11-2024
+- [Day 09 - Minimize the Heights II](Day09/) - 23-11-2024
