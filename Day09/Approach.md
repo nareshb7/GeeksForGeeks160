@@ -1,4 +1,4 @@
-# Notes for Day 08: Stock Buy and Sell – Max one Transaction Allowed (Array's)
+# Notes for Day 09: Minimize the Heights II (Array's)
 
 ## Approach
 

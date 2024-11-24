@@ -14,7 +14,7 @@ class Solution {
       const currentMin = Math.min(arr[0] + k, arr[i + 1] - k);
 
       if (currentMin < 0) continue;
-      
+
       minDiff = Math.min(minDiff, currentMax - currentMin);
     }
 
