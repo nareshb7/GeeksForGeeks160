@@ -11,3 +11,5 @@
 - [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Day07/) - 21-11-2024
 - [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Day08/) - 22-11-2024
 - [Day 09 - Minimize the Heights II](Day09/) - 23-11-2024
+- [Day 10 - Kadane's Algorithm](Day10/) - 24-11-2024
+- [Day 11 - Maximum Product Subarray](Day11/) - 25-11-2024
