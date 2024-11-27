@@ -26,6 +26,37 @@ class Solution {
   }
 }
 
+// T.C - O(n), S.C - O(1)
+// function missingNumber(arr) {
+//   // your code here
+//   const n = arr.length;
+
+//   // Step 1: Replace all negative numbers and zeros with a placeholder (n + 1)
+//   for (let i = 0; i < n; i++) {
+//       if (arr[i] <= 0) {
+//           arr[i] = n + 1;
+//       }
+//   }
+
+//   // Step 2: Mark indices corresponding to present numbers
+//   for (let i = 0; i < n; i++) {
+//       const val = Math.abs(arr[i]);
+//       if (val <= n) {
+//           arr[val - 1] = -Math.abs(arr[val - 1]); // Mark as negative
+//       }
+//   }
+
+//   // Step 3: Find the first positive index
+//   for (let i = 0; i < n; i++) {
+//       if (arr[i] > 0) {
+//           return i + 1; // Missing number
+//       }
+//   }
+
+//   // If no missing number found, return n + 1
+//   return n + 1;
+// }
+
 // Smallest Positive Missing Number
 
 // You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array.
