@@ -2,19 +2,19 @@
 
 ### Array's
 
-- [Day 01 - Second Largest](Day01/) - 15-11-2024
-- [Day 02 - Move All Zeroes to End](Day02/) - 16-11-2024
-- [Day 03 - Reverse an Array](Day03/) - 17-11-2024
-- [Day 04 - Rotate Array](Day04/) - 18-11-2024
-- [Day 05 - Next Permutation](Day05/) - 19-11-2024
-- [Day 06 - Majority Element II](Day06/) - 20-11-2024
-- [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Day07/) - 21-11-2024
-- [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Day08/) - 22-11-2024
-- [Day 09 - Minimize the Heights II](Day09/) - 23-11-2024
-- [Day 10 - Kadane's Algorithm](Day10/) - 24-11-2024
-- [Day 11 - Maximum Product Subarray](Day11/) - 25-11-2024
-- [Day 12 - Max Circular Subarray Sum](Day12/) - 26-11-2024
-- [Day 13 - Smallest Positive Missing Number](Day13/) - 27-11-2024
+- [Day 01 - Second Largest](Arrays/Day01/) - 15-11-2024
+- [Day 02 - Move All Zeroes to End](Arrays/Day02/) - 16-11-2024
+- [Day 03 - Reverse an Array](Arrays/Day03/) - 17-11-2024
+- [Day 04 - Rotate Array](Arrays/Day04/) - 18-11-2024
+- [Day 05 - Next Permutation](Arrays/Day05/) - 19-11-2024
+- [Day 06 - Majority Element II](Arrays/Day06/) - 20-11-2024
+- [Day 07 - Stock Buy and Sell – Multiple Transaction Allowed](Arrays/Day07/) - 21-11-2024
+- [Day 08 - Stock Buy and Sell – Max one Transaction Allowed](Arrays/Day08/) - 22-11-2024
+- [Day 09 - Minimize the Heights II](Arrays/Day09/) - 23-11-2024
+- [Day 10 - Kadane's Algorithm](Arrays/Day10/) - 24-11-2024
+- [Day 11 - Maximum Product Subarray](Arrays/Day11/) - 25-11-2024
+- [Day 12 - Max Circular Subarray Sum](Arrays/Day12/) - 26-11-2024
+- [Day 13 - Smallest Positive Missing Number](Arrays/Day13/) - 27-11-2024
 
 ### String's
 
