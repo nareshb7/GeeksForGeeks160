@@ -19,3 +19,4 @@
 ### String's
 
 - [Day 14 - Implement Atoi](Strings/Day14/) - 28-11-2024
+- [Day 15 - Add Binary Strings](Strings/Day15/) - 29-11-2024
