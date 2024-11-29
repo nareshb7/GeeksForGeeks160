@@ -1,9 +1,7 @@
 class Solution {
   myAtoi(s) {
-    // code here
-    const max = 2147483647;
-    const min = -2147483648;
     const str = s.trim();
+    const max = 2147483647,min = -2147483648;
     let sign = 1, start = 0;
     if (str[0] === "-") {
       sign = -1;
@@ -21,11 +19,11 @@ class Solution {
         break;
       }
     }
-    num = sign * num;
-    if (num >= max) {
+    num = sign * num; // assign the sign
+    if (num >= max) { // if num is more than large
       return max;
     }
-    if (num <= min) {
+    if (num <= min) { // if num is smaller than min
       return min;
     }
     return num == 0 ? 0 : num;
