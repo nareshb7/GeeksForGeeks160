@@ -2,15 +2,30 @@ class Solution {
   // Function is to check whether two strings are anagram of each other or not.
   areAnagrams(s1, s2) {
     // code here
-    const l1 = s1.length;
-    const l2 = s2.length;
-    if (l1 !== l2) {
-      return false;
+    if (s.length !== t.length) return false;
+
+    const count = {};
+
+    for (let char of s) {
+      count[char] = (count[char] || 0) + 1;
     }
 
-    const str1 = s1.split("").sort().join("");
-    const str2 = s2.split("").sort().join("");
-    return str1 === str2;
+    for (let char of t) {
+      if (!count[char]) return false; 
+      count[char]--;
+    }
+
+    return true; // All characters matched
+
+    // const l1 = s1.length;
+    // const l2 = s2.length;
+    // if (l1 !== l2) {
+    //   return false;
+    // }
+
+    // const str1 = s1.split("").sort().join("");
+    // const str2 = s2.split("").sort().join("");
+    // return str1 === str2;
   }
 }
 
