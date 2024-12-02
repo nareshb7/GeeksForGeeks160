@@ -21,13 +21,12 @@ class Solution {
     return lps;
   }
   search(pat, txt) {
-    // your code here
     const n = txt.length;
     const m = pat.length;
     const lps = this.computeArray(pat);
 
-    let i = 0;
-    let j = 0;
+    let i = 0; // index for text
+    let j = 0; // index for pattern
     let res = [];
 
     while (i < n) {
@@ -35,10 +34,10 @@ class Solution {
         i++;
         j++;
       }
-      if (j === m) {
+      if (j === m) { // if match found
         res.push(i - j);
         j = lps[j - 1];
-      } else if (i < n && txt[i] !== pat[j]) {
+      } else if (i < n && txt[i] !== pat[j]) { // If mismatch after j matches
         if (j != 0) {
           j = lps[j - 1];
         } else {
