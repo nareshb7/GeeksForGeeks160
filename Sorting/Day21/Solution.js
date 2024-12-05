@@ -1,27 +1,26 @@
 class Solution {
   // Function to sort an array of 0s, 1s, and 2s
   sort012(arr) {
-      // your code here
-      let zero =0;
-      let i =0;
-      let two =arr.length-1;
-      const swap = (l,r) => {
-          [arr[l], arr[r]] = [arr[r], arr[l]]
+    // your code here
+    let zero = 0;
+    let i = 0;
+    let two = arr.length - 1;
+    const swap = (l, r) => {
+      [arr[l], arr[r]] = [arr[r], arr[l]];
+    };
+    while (i <= two) {
+      if (arr[i] === 0) {
+        swap(i, zero);
+        zero++;
       }
-      while (i<=two) {
-          if (arr[i]  === 0) {
-              swap(i, zero)
-              zero++;
-              
-          }
-          if (arr[i] === 2) {
-              swap(i, two)
-              two--;
-              i--;
-          }
-          i++;
+      if (arr[i] === 2) {
+        swap(i, two);
+        two--;
+        i--;
       }
-      return arr
+      i++;
+    }
+    return arr;
   }
 }
 
