@@ -2,6 +2,7 @@ class Solution {
   // Function to find hIndex
   hIndex(citations) {
     // code here
+    // Step1: Sort the array
     citations.sort((a, b) => b - a);
 
     // Step 2: Iterate through the array to find H-Index
