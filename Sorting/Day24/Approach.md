@@ -1,4 +1,4 @@
-# Notes for Day 23: Overlapping Intervals (Sorting)
+# Notes for Day 24: Overlapping Intervals (Sorting)
 
 ## Approach
 
