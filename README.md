@@ -27,6 +27,7 @@
 - [Day 20 - Strings Rotations of Each Other](Strings/Day20/) - 04-12-2024
 
 ### Sorting
+
 - [Day 21 - Sort 0s, 1s and 2s](Strings/Day21/) - 05-12-2024
 - [Day 22 - Find H-Index ](Strings/Day22/) - 06-12-2024
 - [Day 23 - Count Inversions](Strings/Day23/) - 07-12-2024
@@ -35,4 +36,7 @@
 - [Day 26 - Non- Overlapping Intervals](Strings/Day26/) - 10-12-2024
 - [Day 27 - Merge Without extra space](Strings/Day27/) - 11-12-2024
 
+### Searching
+
+- [Day 28 - Number of occurrence](Strings/Day28/) - 12-12-2024
 
