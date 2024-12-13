@@ -39,4 +39,5 @@
 ### Searching
 
 - [Day 28 - Number of occurrence](Strings/Day28/) - 12-12-2024
+- [Day 29 - Sorted and Rotated Minimum](Strings/Day29/) - 13-12-2024
 
