@@ -40,3 +40,4 @@
 
 - [Day 28 - Number of occurrence](04-Searching/Day28/) - 12-12-2024
 - [Day 29 - Sorted and Rotated Minimum](04-Searching/Day29/) - 13-12-2024
+- [Day 30 - Search in Rotated Sorted Array](04-Searching/Day30/) - 14-12-2024
