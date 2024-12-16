@@ -42,3 +42,4 @@
 - [Day 29 - Sorted and Rotated Minimum](04-Searching/Day29/) - 13-12-2024
 - [Day 30 - Search in Rotated Sorted Array](04-Searching/Day30/) - 14-12-2024
 - [Day 31 - Peak element](04-Searching/Day31/) - 15-12-2024
+- [Day 32 - K-th element of two Arrays](04-Searching/Day32/) - 16-12-2024
