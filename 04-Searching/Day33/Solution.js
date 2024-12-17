@@ -1,28 +1,8 @@
 class Solution {
   // Function to solve the problem.
-  isPossible(stalls, n, k, minDist) {
-    let cowsPlaced = 1; // Place the first cow in the first stall
-    let lastPos = stalls[0];
-
-    for (let i = 1; i < n; i++) {
-      if (stalls[i] - lastPos >= minDist) {
-        cowsPlaced++;
-        lastPos = stalls[i];
-
-        if (cowsPlaced === k) {
-          return true; // Successfully placed all k cows
-        }
-      }
-    }
-    return false;
-  }
-
   aggressiveCows(stalls, k) {
-    // your code here
-
     // Step 1: Sort the stalls array
     stalls.sort((a, b) => a - b);
-
     let n = stalls.length;
     let low = 1; // Minimum possible distance
     let high = stalls[n - 1] - stalls[0]; // Maximum possible distance
@@ -39,8 +19,23 @@ class Solution {
         high = mid - 1; // Reduce the distance
       }
     }
-
     return result;
+  }
+  // helper func
+  isPossible(stalls, n, k, minDist) {
+    let cowsPlaced = 1; // Place the first cow in the first stall
+    let lastPos = stalls[0];
+    for (let i = 1; i < n; i++) {
+      if (stalls[i] - lastPos >= minDist) {
+        cowsPlaced++;
+        lastPos = stalls[i];
+
+        if (cowsPlaced === k) {
+          return true; // Successfully placed all k cows
+        }
+      }
+    }
+    return false;
   }
 }
 
