@@ -45,3 +45,4 @@
 - [Day 32 - K-th element of two Arrays](04-Searching/Day32/) - 16-12-2024
 - [Day 33 - Aggressive Cows](04-Searching/Day33/) - 17-12-2024
 - [Day 34 - Allocate Minimum Pages](04-Searching/Day34/) - 18-12-2024
+- [Day 35 - Kth Missing Positive Number in a Sorted Array](04-Searching/Day35/) - 19-12-2024
