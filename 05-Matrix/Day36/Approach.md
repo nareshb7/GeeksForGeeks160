@@ -8,5 +8,5 @@
 
 ## Complexity
 
-- Time Complexity: Constructing the repeated string and checking for substrings takes `O(k⋅n)`, where k is the number of repetitions and n is the length of s1.
-- Space Complexity: The space used for the repeated string is `O(k⋅n)`
+- Time Complexity: O(m⋅n) — Each element is visited exactly once.
+- Space Complexity: O(1) — No additional space other than the result array.
