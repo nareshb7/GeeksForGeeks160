@@ -46,3 +46,7 @@
 - [Day 33 - Aggressive Cows](04-Searching/Day33/) - 17-12-2024
 - [Day 34 - Allocate Minimum Pages](04-Searching/Day34/) - 18-12-2024
 - [Day 35 - Kth Missing Positive Number in a Sorted Array](04-Searching/Day35/) - 19-12-2024
+
+### Matrix
+
+- [Day 36 - Spirally traversing a matrix](05-Matrix/Day36/) - 20-12-2024
