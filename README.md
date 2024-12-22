@@ -51,3 +51,4 @@
 
 - [Day 36 - Spirally traversing a matrix](05-Matrix/Day36/) - 20-12-2024
 - [Day 37 - Rotate by 90 degree](05-Matrix/Day37/) - 21-12-2024
+- [Day 38 - Search in a Row-Column sorted matrix](05-Matrix/Day38/) - 22-12-2024
