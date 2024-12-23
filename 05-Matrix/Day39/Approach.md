@@ -8,5 +8,5 @@
 
 ## Complexity
 
-- Time Complexity: O(n + m), where n is the number of rows and m is the number of columns
+- Time Complexity: O(n * m), where n is the number of rows and m is the number of columns
 - Space Complexity: O(1) (no extra space used).
