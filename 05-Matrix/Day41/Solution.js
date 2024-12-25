@@ -43,12 +43,14 @@ class Solution {
         }
       }
     }
+
     // update the first col
     if (frstColHasZero) {
       for (let i = 0; i < n; i++) {
         mat[i][0] = 0;
       }
     }
+    
     // update the first row
     if (frstRowHasZero) {
       for (let i = 0; i < m; i++) {
