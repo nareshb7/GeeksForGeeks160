@@ -54,3 +54,4 @@
 - [Day 38 - Search in a Row-Column sorted matrix](05-Matrix/Day38/) - 22-12-2024
 - [Day 39 - Search in a row-wise sorted matrix](05-Matrix/Day39/) - 23-12-2024
 - [Day 40 - Search in a sorted Matrix](05-Matrix/Day40/) - 24-12-2024
+- [Day 41 - Set Matrix Zeroes](05-Matrix/Day41/) - 25-12-2024
