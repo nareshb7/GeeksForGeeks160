@@ -59,3 +59,4 @@
 ### Hashing
 
 - [Day 42 - Two Sum - Pair with Given Sum](06-Hashing/Day42/) - 26-12-2024
+- [Day 43 - Count pairs with given sum](06-Hashing/Day43/) - 27-12-2024
