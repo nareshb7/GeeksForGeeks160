@@ -63,3 +63,4 @@
 - [Day 44 - Find All Triplets with Zero Sum](06-Hashing/Day44/) - 28-12-2024
 - [Day 45 - Intersection of Two arrays with Duplicate Elements](06-Hashing/Day45/) - 29-12-2024
 - [Day 46 - Union of Arrays with Duplicates](06-Hashing/Day46/) - 30-12-2024
+- [Day 47 - Longest Consecutive Subsequence](06-Hashing/Day47/) - 31-12-2024
