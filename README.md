@@ -65,3 +65,4 @@
 - [Day 46 - Union of Arrays with Duplicates](06-Hashing/Day46/) - 30-12-2024
 - [Day 47 - Longest Consecutive Subsequence](06-Hashing/Day47/) - 31-12-2024
 - [Day 48 - Print Anagrams Together](06-Hashing/Day48/) - 01-01-2025
+- [Day 49 - Subarrays with sum K](06-Hashing/Day49/) - 02-01-2025
