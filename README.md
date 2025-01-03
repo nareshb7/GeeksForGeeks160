@@ -66,3 +66,4 @@
 - [Day 47 - Longest Consecutive Subsequence](06-Hashing/Day47/) - 31-12-2024
 - [Day 48 - Print Anagrams Together](06-Hashing/Day48/) - 01-01-2025
 - [Day 49 - Subarrays with sum K](06-Hashing/Day49/) - 02-01-2025
+- [Day 50 - Count Subarrays with given XOR](06-Hashing/Day50/) - 03-01-2025
