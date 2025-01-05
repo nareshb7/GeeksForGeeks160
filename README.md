@@ -70,4 +70,5 @@
 
 ### Two Pointers
 
-- [Day 51 - Count all triplets with given sum in sorted array](07-Two Pointer/Day51/) - 04-01-2025
+- [Day 51 - Count all triplets with given sum in sorted array](07-Two_Pointer/Day51/) - 04-01-2025
+- [Day 52 - Count Pairs whose sum is less than target](07-Two_Pointer/Day52/) - 05-01-2025

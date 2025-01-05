@@ -1,4 +1,4 @@
-# Notes for Day 51: c
+# Notes for Day 51: Count all triplets with given sum in sorted array
 
 ## Approach:
 
