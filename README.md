@@ -74,3 +74,4 @@
 - [Day 52 - Count Pairs whose sum is less than target](07-Two_Pointer/Day52/) - 05-01-2025
 - [Day 53 - Sum Pair closest to target](07-Two_Pointer/Day53/) - 06-01-2025
 - [Day 54 - Pair with given sum in a sorted array](07-Two_Pointer/Day54/) - 07-01-2025
+- [Day 55 - Count the number of possible triangles](07-Two_Pointer/Day55/) - 08-01-2025
