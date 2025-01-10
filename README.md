@@ -76,3 +76,4 @@
 - [Day 54 - Pair with given sum in a sorted array](07-Two_Pointer/Day54/) - 07-01-2025
 - [Day 55 - Count the number of possible triangles](07-Two_Pointer/Day55/) - 08-01-2025
 - [Day 56 - Indexes of Subarray Sum](07-Two_Pointer/Day56/) - 09-01-2025
+- [Day 57 - Count distinct elements in every window](07-Two_Pointer/Day57/) - 10-01-2025
