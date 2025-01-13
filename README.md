@@ -79,3 +79,4 @@
 - [Day 57 - Count distinct elements in every window](07-Two_Pointer/Day57/) - 10-01-2025
 - [Day 58 - Longest substring with distinct characters](07-Two_Pointer/Day58/) - 11-01-2025
 - [Day 59 - Trapping Rain Water](07-Two_Pointer/Day59/) - 12-01-2025
+- [Day 60 - Container With Most Water](07-Two_Pointer/Day60/) - 13-01-2025
