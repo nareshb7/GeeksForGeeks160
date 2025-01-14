@@ -80,3 +80,8 @@
 - [Day 58 - Longest substring with distinct characters](07-Two_Pointer/Day58/) - 11-01-2025
 - [Day 59 - Trapping Rain Water](07-Two_Pointer/Day59/) - 12-01-2025
 - [Day 60 - Container With Most Water](07-Two_Pointer/Day60/) - 13-01-2025
+
+### Prefix Sum
+
+- [Day 61 -  Equilibrium Point](08-Prefix_Sum/Day61/) - 14-01-2025
+
