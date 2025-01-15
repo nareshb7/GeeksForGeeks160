@@ -84,4 +84,5 @@
 ### Prefix Sum
 
 - [Day 61 -  Equilibrium Point](08-Prefix_Sum/Day61/) - 14-01-2025
+- [Day 62 -  Longest Subarray with Sum K](08-Prefix_Sum/Day62/) - 15-01-2025
 
