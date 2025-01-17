@@ -86,4 +86,5 @@
 - [Day 61 -  Equilibrium Point](08-Prefix_Sum/Day61/) - 14-01-2025
 - [Day 62 -  Longest Subarray with Sum K](08-Prefix_Sum/Day62/) - 15-01-2025
 - [Day 63 -  Largest subarray of 0's and 1's](08-Prefix_Sum/Day63/) - 16-01-2025
+- [Day 64 -  Product array puzzle](08-Prefix_Sum/Day64/) - 17-01-2025
 
