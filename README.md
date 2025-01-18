@@ -88,3 +88,8 @@
 - [Day 63 -  Largest subarray of 0's and 1's](08-Prefix_Sum/Day63/) - 16-01-2025
 - [Day 64 -  Product array puzzle](08-Prefix_Sum/Day64/) - 17-01-2025
 
+### LinkedList
+
+- [Day 65 - Reverse a LinkedList](09-LinkedList/Day64/) - 18-01-2025
+
+
