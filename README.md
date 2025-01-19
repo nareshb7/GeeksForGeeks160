@@ -91,5 +91,6 @@
 ### LinkedList
 
 - [Day 65 - Reverse a LinkedList](09-LinkedList/Day64/) - 18-01-2025
+- [Day 66 - Rotate a Linked List](09-LinkedList/Day65/) - 19-01-2025
 
 
