@@ -95,5 +95,6 @@
 - [Day 67 - Merge two sorted linked lists](09-LinkedList/Day67/) - 20-01-2025
 - [Day 68 - Linked List Group Reverse](09-LinkedList/Day68/) - 21-01-2025
 - [Day 69 - Add Number Linked Lists](09-LinkedList/Day69/) - 22-01-2025
+- [Day 70 - Clone List with Next and Random](09-LinkedList/Day70/) - 23-01-2025
 
 
