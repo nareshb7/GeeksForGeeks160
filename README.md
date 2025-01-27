@@ -99,5 +99,6 @@
 - [Day 71 - Detect Loop in linked list](09-LinkedList/Day71/) - 24-01-2025
 - [Day 72 - Find the first node of loop in linked list](09-LinkedList/Day72/) - 25-01-2025
 - [Day 73 - Remove loop in Linked List](09-LinkedList/Day73/) - 26-01-2025
+- [Day 74 - LRU Cache](09-LinkedList/Day74/) - 27-01-2025
 
 
