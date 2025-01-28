@@ -101,4 +101,9 @@
 - [Day 73 - Remove loop in Linked List](09-LinkedList/Day73/) - 26-01-2025
 - [Day 74 - LRU Cache](09-LinkedList/Day74/) - 27-01-2025
 
+### Recursion and BackTracking
+
+- [Day 75 - LRU Cache](10-Recursion_BackTracking/Day75/) - 28-01-2025
+
+
 
