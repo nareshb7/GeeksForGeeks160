@@ -104,6 +104,7 @@
 ### Recursion and BackTracking
 
 - [Day 75 - LRU Cache](10-Recursion_BackTracking/Day75/) - 28-01-2025
+- [Day 76 - Implement Pow](10-Recursion_BackTracking/Day76/) - 29-01-2025
 
 
 
