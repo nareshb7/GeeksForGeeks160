@@ -106,6 +106,7 @@
 - [Day 75 - LRU Cache](10-Recursion_BackTracking/Day75/) - 28-01-2025
 - [Day 76 - Implement Pow](10-Recursion_BackTracking/Day76/) - 29-01-2025
 - [Day 77 - N-Queen Problem](10-Recursion_BackTracking/Day77/) - 30-01-2025
+- [Day 78 - Solve the Sudoku](10-Recursion_BackTracking/Day78/) - 31-01-2025
 
 
 
