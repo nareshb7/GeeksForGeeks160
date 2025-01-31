@@ -2,11 +2,11 @@
 
 ## Approach:
 
-- Find an empty cell (represented by 0 in the matrix).
-- Try placing numbers from 1 to 9, ensuring that the number is valid in the row, column, and 3×3 sub-grid.
-- Recursively attempt to fill the rest of the board.
-- If a placement leads to a dead end, backtrack and try the next valid number.
-- Once the board is filled, return the solution.
+- Find an empty cell → (0,2)
+- Try placing 1-9 and check if valid.
+- Recursively continue until the board is filled.
+- If a number doesn’t fit, backtrack and try the next one.
+- Return the filled board when done.
 
 ## Complexity
 
