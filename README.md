@@ -107,6 +107,7 @@
 - [Day 76 - Implement Pow](10-Recursion_BackTracking/Day76/) - 29-01-2025
 - [Day 77 - N-Queen Problem](10-Recursion_BackTracking/Day77/) - 30-01-2025
 - [Day 78 - Solve the Sudoku](10-Recursion_BackTracking/Day78/) - 31-01-2025
+- [Day 79 - Word Search](10-Recursion_BackTracking/Day79/) - 01-02-2025
 
 
 
