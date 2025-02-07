@@ -116,6 +116,7 @@
 - [Day 82 - Diameter of Binary Tree](11-Tree/Day82/) - 04-02-2025
 - [Day 83 - Mirror Tree](11-Tree/Day83/) - 05-02-2025
 - [Day 84 - Construct Tree from Inorder & Preorder](11-Tree/Day84/) - 06-02-2025
+- [Day 85 - Inorder Traversal](11-Tree/Day85/) - 07-02-2025
 
 
 
