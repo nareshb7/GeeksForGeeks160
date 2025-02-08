@@ -117,6 +117,7 @@
 - [Day 83 - Mirror Tree](11-Tree/Day83/) - 05-02-2025
 - [Day 84 - Construct Tree from Inorder & Preorder](11-Tree/Day84/) - 06-02-2025
 - [Day 85 - Inorder Traversal](11-Tree/Day85/) - 07-02-2025
+- [Day 86 - Tree Boundary Traversal](11-Tree/Day86/) - 08-02-2025
 
 
 
