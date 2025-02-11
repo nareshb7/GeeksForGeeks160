@@ -120,6 +120,7 @@
 - [Day 86 - Tree Boundary Traversal](11-Tree/Day86/) - 08-02-2025
 - [Day 87 - Maximum path sum from any node](11-Tree/Day87/) - 09-02-2025
 - [Day 88 - K Sum Paths](11-Tree/Day88/) - 10-02-2025
+- [Day 89 - Check for BST](11-Tree/Day89/) - 11-02-2025
 
 
 
