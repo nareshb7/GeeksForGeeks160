@@ -121,6 +121,7 @@
 - [Day 87 - Maximum path sum from any node](11-Tree/Day87/) - 09-02-2025
 - [Day 88 - K Sum Paths](11-Tree/Day88/) - 10-02-2025
 - [Day 89 - Check for BST](11-Tree/Day89/) - 11-02-2025
+- [Day 90 - k-th Smallest in BST](11-Tree/Day90/) - 12-02-2025
 
 
 
