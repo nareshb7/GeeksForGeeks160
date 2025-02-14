@@ -1,4 +1,4 @@
-# Notes for Day 91: Fixing Two Nodes of a BST
+# Notes for Day 92: Fixing Two Nodes of a BST
 
 ## Approach:
 
