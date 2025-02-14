@@ -122,6 +122,8 @@
 - [Day 88 - K Sum Paths](11-Tree/Day88/) - 10-02-2025
 - [Day 89 - Check for BST](11-Tree/Day89/) - 11-02-2025
 - [Day 90 - k-th Smallest in BST](11-Tree/Day90/) - 12-02-2025
+- [Day 91 - Pair Sum in BST](11-Tree/Day91/) - 13-02-2025
+- [Day 92 - Fixing Two nodes of a BST](11-Tree/Day92/) - 14-02-2025
 
 
 

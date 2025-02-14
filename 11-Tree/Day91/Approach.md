@@ -1,12 +1,13 @@
-# Notes for Day 90: k-th Smallest in BST
+# Notes for Day 91: Pair Sum in BST
 
 ## Approach:
 
-- Use in-order DFS traversal (since BST in-order traversal gives sorted order).
-- Maintain a counter count to track the k-th smallest element.
-- Stop the traversal early once we find the k-th smallest element, reducing unnecessary recursion
+- Use a HashSet: Store visited node values to check for the required complement (target - current node).
+- DFS Traversal: Perform an in-order traversal to visit nodes in sorted order.
+- Check for Pair: If (target - node value) exists in the set, return true; otherwise, add the node value to the set.
+- Stop Early: As soon as a valid pair is found, stop further traversal for optimization.
 
 ## Complexity
 
-- Time Complexity: O(H+k)
-- Space Complexity: O(H)
+- Time Complexity: O(n)
+- Space Complexity: O(n)
