@@ -125,6 +125,7 @@
 - [Day 91 - Pair Sum in BST](11-Tree/Day91/) - 13-02-2025
 - [Day 92 - Fixing Two nodes of a BST](11-Tree/Day92/) - 14-02-2025
 - [Day 93 - Lowest Common Ancestor in a BST](11-Tree/Day93/) - 15-02-2025
+- [Day 94 - Serialize and deserialize a binary tree](11-Tree/Day94/) - 16-02-2025
 
 
 
