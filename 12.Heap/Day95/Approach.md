@@ -9,4 +9,4 @@
 ## Complexity
 
 - Time Complexity: O(nlogk)
-- Space Complexity: O(n)
+- Space Complexity: O(k)
