@@ -127,6 +127,10 @@
 - [Day 93 - Lowest Common Ancestor in a BST](11-Tree/Day93/) - 15-02-2025
 - [Day 94 - Serialize and deserialize a binary tree](11-Tree/Day94/) - 16-02-2025
 
+### Heap
+
+- [Day 95 - k largest elements](12-Heap/Day95/) - 17-02-2025
+
 
 
 
