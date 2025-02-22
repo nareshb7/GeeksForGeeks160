@@ -137,6 +137,7 @@
 ### Stack
 
 - [Day 99 - Parenthesis Checker](13-Stack/Day99/) - 21-02-2025
+- [Day 100 - Longest valid Parentheses](13-Stack/Day100/) - 22-02-2025
 
 
 
