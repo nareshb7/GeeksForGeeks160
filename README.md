@@ -139,6 +139,7 @@
 - [Day 99 - Parenthesis Checker](13-Stack/Day99/) - 21-02-2025
 - [Day 100 - Longest valid Parentheses](13-Stack/Day100/) - 22-02-2025
 - [Day 101 - Next Greater Element](13-Stack/Day101/) - 23-02-2025
+- [Day 102 - Stock span problem](13-Stack/Day102/) - 24-02-2025
 
 
 
