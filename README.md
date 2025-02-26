@@ -141,6 +141,7 @@
 - [Day 101 - Next Greater Element](13-Stack/Day101/) - 23-02-2025
 - [Day 102 - Stock span problem](13-Stack/Day102/) - 24-02-2025
 - [Day 103 - Histogram Max Rectangular Area](13-Stack/Day103/) - 25-02-2025
+- [Day 104 - Maximum of minimum for every window size](13-Stack/Day104/) - 26-02-2025
 
 
 
