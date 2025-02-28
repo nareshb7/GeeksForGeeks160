@@ -143,6 +143,7 @@
 - [Day 103 - Histogram Max Rectangular Area](13-Stack/Day103/) - 25-02-2025
 - [Day 104 - Maximum of minimum for every window size](13-Stack/Day104/) - 26-02-2025
 - [Day 105 - Get Min from Stack](13-Stack/Day105/) - 27-02-2025
+- [Day 106 - Evaluation of Postfix Expression](13-Stack/Day106/) - 28-02-2025
 
 
 
