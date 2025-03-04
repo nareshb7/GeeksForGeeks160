@@ -148,7 +148,9 @@
 
 ### Queue_Dequeue
 
-- [Day 108 - Decode the string](13-Stack/Day108/) - 02-03-2025
-- [Day 109 - Longest Bounded-Difference Subarray](13-Stack/Day109/) - 03-03-2025
+- [Day 108 - K Sized Subarray Maximum](14-Queue_Dequeue/Day108/) - 02-03-2025
+- [Day 109 - Longest Bounded-Difference Subarray](14-Queue_Dequeue/Day109/) - 03-03-2025
 
+### Dynamic Programming
 
+- [Day 110 - Longest Increasing Subsequence](15-Dynamic_Programming/Day110/) - 04-03-2025
