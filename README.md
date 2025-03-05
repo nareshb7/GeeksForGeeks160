@@ -154,3 +154,4 @@
 ### Dynamic Programming
 
 - [Day 110 - Longest Increasing Subsequence](15-Dynamic_Programming/Day110/) - 04-03-2025
+- [Day 111 - Longest String Chain](15-Dynamic_Programming/Day111/) - 05-03-2025
