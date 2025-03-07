@@ -24,7 +24,7 @@ class Solution {
   }
 }
 
-// Longest Palindromic Subsequence
+// Longest Palindromic Subsequence 
 
 // Given a string s, return the length of the longest palindromic subsequence.
 
