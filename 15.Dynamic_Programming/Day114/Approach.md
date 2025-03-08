@@ -2,13 +2,18 @@
 
 ## Approach:
 
-- Step 1: Create a DP table, where dp[i][j] will be true if the substring s[i...j] is a palindrome.
-- Step 2: Initialize all substrings of length 1 as palindromes (dp[i][i] = true).
-- Step 3: Check for substrings of length 2 (dp[i][i+1] = true if s[i] === s[i+1]).
-- Step 4: Expand for substrings of length 3 or more (dp[i][j] = true if s[i] === s[j] and dp[i+1][j-1] is true).
-- Step 5: Track the starting index and max length of the longest palindrome found.
+- Expand Around Center:
+- A palindrome can have a single character center (odd length) or two adjacent characters as the center (even length).
+- The function expandAroundCenter(s, left, right) expands outward while the characters at left and right are the same.
+- This function returns the longest palindrome found starting from the given center.
+
+- Iterating through the String:
+- For each character i in s, we consider:
+- Odd-length palindrome: Expand around center s[i]
+- Even-length palindrome: Expand around center s[i] and s[i+1]
+- The longest palindrome encountered is stored.
 
 ## Complexity
 
 - Time Complexity: O(n2),
-- Space Complexity: O(n2)
+- Space Complexity: O(1)

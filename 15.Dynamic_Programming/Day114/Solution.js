@@ -1,38 +1,31 @@
 class Solution {
+  expandAroundCenter(s, left, right) {
+    while (left >= 0 && right < s.length && s[left] === s[right]) {
+      left--;
+      right++;
+    }
+
+    return s.substring(left + 1, right);
+  }
+
   longestPalindrome(s) {
-    // code here
     let n = s.length;
+    if (n <= 0) return "";
 
-    if (n <= 1) return s;
-
-    let dp = Array.from({ length: n }, () => Array(n).fill(false));
-
-    let start = 0,
-      maxLength = 1;
+    let longestPal = "";
     for (let i = 0; i < n; i++) {
-      dp[i][i] = true;
-    }
+      let pal1 = this.expandAroundCenter(s, i, i);
+      if (pal1.length > longestPal.length) {
+        longestPal = pal1;
+      }
 
-    for (let i = 0; i < n - 1; i++) {
-      if (s[i] === s[i + 1]) {
-        dp[i][i + 1] = true;
-        start = i;
-        maxLength = 2;
+      let pal2 = this.expandAroundCenter(s, i, i + 1);
+      if (pal2.length > longestPal.length) {
+        longestPal = pal2;
       }
     }
 
-    for (let len = 3; len <= n; len++) {
-      for (let i = 0; i <= n - len; i++) {
-        let j = i + len - 1;
-        if (s[i] === s[j] && dp[i + 1][j - 1]) {
-          dp[i][j] = true;
-          start = i;
-          maxLength = len;
-        }
-      }
-    }
-
-    return s.substring(start, start + maxLength);
+    return longestPal;
   }
 }
 
