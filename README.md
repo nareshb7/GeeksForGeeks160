@@ -158,3 +158,4 @@
 - [Day 112 - Longest Common Subsequence](15-Dynamic_Programming/Day112/) - 06-03-2025
 - [Day 113 - Longest Palindromic Subsequence](15-Dynamic_Programming/Day113/) - 07-03-2025
 - [Day 114 - Longest Palindrome in a String](15-Dynamic_Programming/Day114/) - 08-03-2025
+- [Day 115 - Palindrome SubStrings](15-Dynamic_Programming/Day115/) - 09-03-2025
