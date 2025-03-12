@@ -161,3 +161,4 @@
 - [Day 115 - Palindrome SubStrings](15-Dynamic_Programming/Day115/) - 09-03-2025
 - [Day 116 - Edit Distance](15-Dynamic_Programming/Day116/) - 10-03-2025
 - [Day 117 - Ways to Reach the n'th Stair](15-Dynamic_Programming/Day117/) - 11-03-2025
+- [Day 118 - Min Cost Climbing Stairs](15-Dynamic_Programming/Day118/) - 12-03-2025
