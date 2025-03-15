@@ -164,3 +164,4 @@
 - [Day 118 - Min Cost Climbing Stairs](15-Dynamic_Programming/Day118/) - 12-03-2025
 - [Day 119 - 0 - 1 Knapsack Problem](15-Dynamic_Programming/Day119/) - 13-03-2025
 - [Day 120 - Coin Change (Count Ways)](15-Dynamic_Programming/Day120/) - 14-03-2025
+- [Day 121 - Coin Change (Minimum Coins)](15-Dynamic_Programming/Day121/) - 15-03-2025
