@@ -166,3 +166,4 @@
 - [Day 120 - Coin Change (Count Ways)](15-Dynamic_Programming/Day120/) - 14-03-2025
 - [Day 121 - Coin Change (Minimum Coins)](15-Dynamic_Programming/Day121/) - 15-03-2025
 - [Day 122 - Minimum Jumps](15-Dynamic_Programming/Day122/) - 16-03-2025
+- [Day 123 - Subset Sum Problem](15-Dynamic_Programming/Day123/) - 17-03-2025
