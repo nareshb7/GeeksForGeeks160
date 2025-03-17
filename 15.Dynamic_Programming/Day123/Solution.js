@@ -20,12 +20,31 @@ class Solution {
   }
 }
 
+
+// Using 1D array by iterating backward over the sum
+class Solution {
+  isSubsetSum(arr, sum) {
+    // code here
+    let dp = Array(sum + 1).fill(false);
+
+    dp[0] = true;
+
+    for (let num of arr) {
+      for (let j = sum; j >= num; j++) {
+        dp[j] = dp[j] || dp[j - 1];
+      }
+    }
+
+    return dp[sum];
+  }
+}
+
 // Subset Sum Problem
 
-// Given an array of positive integers arr[] and a value sum, determine if there is a subset of arr[] with sum equal to given sum. 
+// Given an array of positive integers arr[] and a value sum, determine if there is a subset of arr[] with sum equal to given sum.
 
 // Examples:
 
 // Input: arr[] = [3, 34, 4, 12, 5, 2], sum = 9
-// Output: true 
+// Output: true
 // Explanation: Here there exists a subset with target sum = 9, 4+3+2 = 9.
