@@ -169,3 +169,4 @@
 - [Day 123 - Subset Sum Problem](15-Dynamic_Programming/Day123/) - 17-03-2025
 - [Day 124 - Partition Equal Subset Sum](15-Dynamic_Programming/Day124/) - 18-03-2025
 - [Day 125 - Stock Buy and Sell – Max K Transactions Allowed](15-Dynamic_Programming/Day125/) - 19-03-2025
+- [Day 126 - Stock Buy and Sell – Max 2 Transactions Allowed](15-Dynamic_Programming/Day126/) - 20-03-2025
