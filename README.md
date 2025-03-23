@@ -172,3 +172,4 @@
 - [Day 126 - Stock Buy and Sell – Max 2 Transactions Allowed](15-Dynamic_Programming/Day126/) - 20-03-2025
 - [Day 127 - Stickler Thief](15-Dynamic_Programming/Day127/) - 21-03-2025
 - [Day 128 - Stickler Thief II](15-Dynamic_Programming/Day128/) - 22-03-2025
+- [Day 129 - Total Decoding Messages](15-Dynamic_Programming/Day129/) - 23-03-2025
