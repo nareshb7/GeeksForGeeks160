@@ -173,3 +173,4 @@
 - [Day 127 - Stickler Thief](15-Dynamic_Programming/Day127/) - 21-03-2025
 - [Day 128 - Stickler Thief II](15-Dynamic_Programming/Day128/) - 22-03-2025
 - [Day 129 - Total Decoding Messages](15-Dynamic_Programming/Day129/) - 23-03-2025
+- [Day 130 - Matrix Chain Multiplication](15-Dynamic_Programming/Day130/) - 24-03-2025
