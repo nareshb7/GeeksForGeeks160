@@ -12,4 +12,4 @@
 ## Complexity
 
 - Time Complexity: O(n3),
-- Space Complexity: O(n)
+- Space Complexity: O(n2)
