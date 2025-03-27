@@ -176,3 +176,7 @@
 - [Day 130 - Matrix Chain Multiplication](15-Dynamic_Programming/Day130/) - 24-03-2025
 - [Day 131 - Boolean Parenthesization](15-Dynamic_Programming/Day131/) - 25-03-2025
 - [Day 132 - Word Break](15-Dynamic_Programming/Day132/) - 26-03-2025
+
+### Greedy
+
+- [Day 133 - Minimum Platforms](16-Greedy/Day133/) - 27-03-2025
