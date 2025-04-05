@@ -191,3 +191,4 @@
 - [Day 139 - BFS of Graph](17-Graph/Day139/) - 02-04-2025
 - [Day 140 - Rotten Oranges](17-Graph/Day140/) - 03-04-2025
 - [Day 141 - Undirected Graph Cycle](17-Graph/Day141/) - 04-04-2025
+- [Day 142 - Find the number of islands](17-Graph/Day142/) - 05-04-2025
