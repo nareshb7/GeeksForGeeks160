@@ -83,10 +83,10 @@
 
 ### Prefix Sum
 
-- [Day 61 -  Equilibrium Point](08-Prefix_Sum/Day61/) - 14-01-2025
-- [Day 62 -  Longest Subarray with Sum K](08-Prefix_Sum/Day62/) - 15-01-2025
-- [Day 63 -  Largest subarray of 0's and 1's](08-Prefix_Sum/Day63/) - 16-01-2025
-- [Day 64 -  Product array puzzle](08-Prefix_Sum/Day64/) - 17-01-2025
+- [Day 61 - Equilibrium Point](08-Prefix_Sum/Day61/) - 14-01-2025
+- [Day 62 - Longest Subarray with Sum K](08-Prefix_Sum/Day62/) - 15-01-2025
+- [Day 63 - Largest subarray of 0's and 1's](08-Prefix_Sum/Day63/) - 16-01-2025
+- [Day 64 - Product array puzzle](08-Prefix_Sum/Day64/) - 17-01-2025
 
 ### LinkedList
 
@@ -144,7 +144,7 @@
 - [Day 104 - Maximum of minimum for every window size](13-Stack/Day104/) - 26-02-2025
 - [Day 105 - Get Min from Stack](13-Stack/Day105/) - 27-02-2025
 - [Day 106 - Evaluation of Postfix Expression](13-Stack/Day106/) - 28-02-2025
-- [Day 107 - Decode the string](13-Stack/Day107/) - 01-03-2025 
+- [Day 107 - Decode the string](13-Stack/Day107/) - 01-03-2025
 
 ### Queue_Dequeue
 
@@ -193,3 +193,4 @@
 - [Day 141 - Undirected Graph Cycle](17-Graph/Day141/) - 04-04-2025
 - [Day 142 - Find the number of islands](17-Graph/Day142/) - 05-04-2025
 - [Day 143 - Topological sort](17-Graph/Day143/) - 06-04-2025
+- [Day 144 - Directed Graph Cycle](17-Graph/Day144/) - 07-04-2025
