@@ -21,8 +21,6 @@
 - For all pairs i, j: Update: dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j])
 - Final Result: If ans is still INF, return -1 (no cycle exists)
 
-Else, return ans → the weight of the minimum cycle
-
 ## Complexity
 
 - Time Complexity: O(V\*\* 3);
