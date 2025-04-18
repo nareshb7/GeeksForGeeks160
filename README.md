@@ -204,3 +204,7 @@
 - [Day 152 - Bellman-Ford](17-Graph/Day152/) - 15-04-2025
 - [Day 153 - Floyd Warshall](17-Graph/Day153/) - 16-04-2025
 - [Day 154 - Minimum Weight Cycle](17-Graph/Day154/) - 17-04-2025
+
+### Trie
+
+- [Day 155 - Implement Trie](18-Trie/Day155/) - 18-04-2025
