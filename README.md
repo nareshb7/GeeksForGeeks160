@@ -208,3 +208,4 @@
 ### Trie
 
 - [Day 155 - Implement Trie](18-Trie/Day155/) - 18-04-2025
+- [Day 156 - Maximum XOR of two numbers in an array](18-Trie/Day156/) - 19-04-2025
