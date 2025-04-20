@@ -209,3 +209,7 @@
 
 - [Day 155 - Implement Trie](18-Trie/Day155/) - 18-04-2025
 - [Day 156 - Maximum XOR of two numbers in an array](18-Trie/Day156/) - 19-04-2025
+
+### Bit Manipulation
+
+- [Day 157 - Find Only Repetitive Element from 1 to n-1](19.Bit-Manipulation/Day157/) - 20-04-2025
