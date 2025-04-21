@@ -213,3 +213,4 @@
 ### Bit Manipulation
 
 - [Day 157 - Find Only Repetitive Element from 1 to n-1](19.Bit-Manipulation/Day157/) - 20-04-2025
+- [Day 158 - Missing in Array](19.Bit-Manipulation/Day158/) - 21-04-2025

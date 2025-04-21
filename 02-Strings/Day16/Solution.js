@@ -1,44 +1,28 @@
 class Solution {
-  // Function is to check whether two strings are anagram of each other or not.
-  areAnagrams(s1, s2) {
+  missingNum(arr) {
     // code here
-    if (s.length !== t.length) return false;
+    let xor1 = 0;
+    let xor2 = 0;
+    let n = arr.length;
 
-    const count = {};
-
-    for (let char of s) {
-      count[char] = (count[char] || 0) + 1;
+    for (let i = 1; i <= n + 1; i++) {
+      xor1 ^= i;
     }
 
-    for (let char of t) {
-      if (!count[char]) return false; 
-      count[char]--;
+    for (let i = 0; i < n; i++) {
+      xor2 ^= arr[i];
     }
 
-    return true; // All characters matched
-
-    // const l1 = s1.length;
-    // const l2 = s2.length;
-    // if (l1 !== l2) {
-    //   return false;
-    // }
-
-    // const str1 = s1.split("").sort().join("");
-    // const str2 = s2.split("").sort().join("");
-    // return str1 === str2;
+    return xor1 ^ xor2;
   }
 }
 
-// Anagram
+// Missing in Array
 
-// Given two strings s1 and s2 consisting of lowercase characters. The task is to check whether two given strings are an anagram of each
-// other or not. An anagram of a string is another string that contains the same characters, only the order of characters can be different.
-// For example, act and tac are an anagram of each other. Strings s1 and s2 can only contain lowercase alphabets.
+// You are given an array arr[] of size n - 1 that contains distinct integers in the range from 1 to n (inclusive). This array represents a permutation of the integers from 1 to n with one element missing. Your task is to identify and return the missing element.
 
-// Note: You can assume both the strings s1 & s2 are non-empty.
+// Examples:
 
-// Examples :
-
-// Input: s1 = "geeks", s2 = "kseeg"
-// Output: true
-// Explanation: Both the string have same characters with same frequency. So, they are anagrams.
+// Input: arr[] = [1, 2, 3, 5]
+// Output: 4
+// Explanation: All the numbers from 1 to 5 are present except 4.
